@@ -6,7 +6,21 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+    <StartupObject>HypixelXPCalculator.Program</StartupObject>
+    <ApplicationIcon>favicon-jod.ico</ApplicationIcon>
+    <SignAssembly>False</SignAssembly>
+    <Authors>joddy.dev</Authors>
+    <Description>A program to calculate how much XP you need to reach your goal level made for the Hypixel Network.</Description>
+    <Copyright>joddy.dev 2021</Copyright>
+    <PackageProjectUrl>https://git.joddy.dev/hypixel-xp-calculator</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/J0ddy/HypixelXPCalculator</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <NeutralLanguage>en</NeutralLanguage>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="favicon-jod.ico" />
+  </ItemGroup>
 
   <ItemGroup>
     <Compile Update="Properties\Resources.Designer.cs">

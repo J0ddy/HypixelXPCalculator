@@ -17,6 +17,7 @@ namespace HypixelXPCalculator
 
         private void ShowResult(double[] result)
         {
+            ClearResults();
             panelResult_Icons.Show();
             if (Type == "daily")
             {
@@ -43,6 +44,17 @@ namespace HypixelXPCalculator
                 lblResult7.Text = "Total XP Needed: " + result[6].ToString("N0");
             }
             else OpenError("An unknown error occurred.\nPlease report this to the developer. (0)");
+        }
+
+        private void ClearResults()
+        {
+            lblResult1.Text = string.Empty;
+            lblResult2.Text = string.Empty;
+            lblResult3.Text = string.Empty;
+            lblResult4.Text = string.Empty;
+            lblResult5.Text = string.Empty;
+            lblResult1.Text = string.Empty;
+            lblResult7.Text = string.Empty;
         }
 
         private void btnTypeEXP_Click(object sender, EventArgs e)
