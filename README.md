@@ -77,7 +77,7 @@ This program will help you:
 * How many boosters you need depending on the player count
 * Calculate how many days you need to play to reach a level
 
-A list of commonly used resources that I find helpful are listed in the [acknowledgements](Acknowledgements).
+A list of commonly used resources that I find helpful are listed in the [acknowledgements](#Acknowledgements).
 
 ### Built With
 
