@@ -10,7 +10,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![AGPL-3.0 license][license-shield]][license-url]
 
 
 
@@ -29,7 +29,7 @@
     <a href="https://github.com/J0ddy/HypixelXPCalculator/wiki"><strong>Wiki »</strong></a>
     <br />
     <br />
-    <a href="https://git.joddy.dev/hypixel-xp-calculator/#demo">View Demo</a>
+    <a href="https://github.com/J0ddy/HypixelXPCalculator#about-the-project">View Demo</a>
     ·
     <a href="https://github.com/J0ddy/HypixelXPCalculator/issues">Report Bug</a>
     ·
@@ -81,8 +81,7 @@ A list of commonly used resources that I find helpful are listed in the [acknowl
 
 ### Built With
 
-* [.NET 6](https://dotnet.microsoft.com/en-us/)
-* [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+* [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) ([.NET 6](https://dotnet.microsoft.com/en-us/))
 
 
 
@@ -121,8 +120,6 @@ _For more information, please refer to the [Documentation](https://github.com/J0
 
 See the [open issues](https://github.com/J0ddy/HypixelXPCalculator/issues) for a list of proposed features (and known issues).
 
-
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -139,8 +136,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the AGPL-3.0 License. See `LICENSE` for more information.
-
+Distributed under the AGPL-3.0 License. See [`LICENSE`](https://github.com/J0ddy/HypixelXPCalculator/blob/master/LICENSE) for more information.
 
 
 <!-- CONTACT -->
@@ -175,5 +171,5 @@ Project Link: [https://github.com/J0ddy/HypixelXPCalculator](https://github.com/
 [issues-shield]: https://img.shields.io/github/issues/J0ddy/HypixelXPCalculator.svg?style=for-the-badge
 [issues-url]: https://github.com/J0ddy/HypixelXPCalculator/issues
 [license-shield]: https://img.shields.io/github/license/J0ddy/HypixelXPCalculator.svg?style=for-the-badge
-[license-url]: https://github.com/J0ddy/HypixelXPCalculator/blob/master/LICENSE.txt
+[license-url]: https://github.com/J0ddy/HypixelXPCalculator/blob/master/LICENSE
 [product-screenshot]: images/screenshot.png
