@@ -7,7 +7,7 @@
 
 
 
-<!-- PROJECT LOGO  test -->
+<!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="#">
