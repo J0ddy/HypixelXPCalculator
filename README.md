@@ -18,7 +18,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://img.icons8.com/color/344/calculate.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">HypixelXPCalculator</h3>
@@ -157,7 +157,8 @@ Project Link: [https://github.com/J0ddy/HypixelXPCalculator](https://github.com/
 * [Icons8](https://icons8.com/)
 
 
-
+## Disclaimer
+*We are not affiliated with Hypixel Inc. or Mojang AB*
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
