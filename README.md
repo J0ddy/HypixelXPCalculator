@@ -1,11 +1,4 @@
 <!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -150,10 +143,11 @@ Project Link: [https://github.com/J0ddy/HypixelXPCalculator](https://github.com/
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
+* [Microsoft Visual Studio](https://visualstudio.microsoft.com/)
+* [JetBrains dotUltimate](https://www.jetbrains.com/dotnet/) - [ReSharper Extention](https://www.jetbrains.com/resharper/)
 * [Leveling Formula](https://hypixel.net/threads/guide-network-level-equations.3412241/)
 * [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
 * [Icons8](https://icons8.com/)
 
 
