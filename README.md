@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="#">
     <img src="https://img.icons8.com/color/344/calculate.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -144,6 +144,7 @@ Project Link: [https://github.com/J0ddy/HypixelXPCalculator](https://github.com/
 * [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
 * [Icons8](https://icons8.com/)
+* [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 
 
 ## Disclaimer
